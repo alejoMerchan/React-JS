@@ -196,10 +196,7 @@ import './index.css';
             }
         }
 
-        CommentBox.propTypes = {
-            post: PropTypes.object,
-            comments: PropTypes.arrayOf(PropTypes.object)
-        }
+
 
 
 
